@@ -1,0 +1,21 @@
+
+body {
+  background-color: #ffffff;
+}
+
+.navbar {
+  background-color: #cce6ff !important;
+}
+
+.card {
+  background-color: #e6f2ff;
+}
+
+footer {
+  background-color: #cce6ff;
+}
+
+footer p {
+  background-color: #003366;
+  color: white;
+}
